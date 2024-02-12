@@ -1,5 +1,8 @@
 {
     "window.zoomLevel": 0.5,
+    "window.titleBarStyle": "custom",
+    "window.commandCenter": false,
+    "editor.fontSize": 14,
     "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
     "editor.fontLigatures": false,
     "editor.lineHeight": 1.6,
@@ -9,14 +12,19 @@
     "editor.formatOnType": false,
     "editor.formatOnSave": true,
     "editor.formatOnSaveMode": "file",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.horizontal": "auto",
+    "editor.scrollbar.vertical": "auto",
+    "editor.linkedEditing": true,
     "workbench.colorTheme": "GitHub Dark Default",
-    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "workbench.iconTheme": "moxer-icons",
     "workbench.productIconTheme": "material-product-icons",
     "workbench.preferredDarkColorTheme": "GitHub Dark Default",
     "workbench.preferredLightColorTheme": "GitHub Light Default",
     "workbench.tree.indent": 16,
     "workbench.list.smoothScrolling": true,
     "terminal.integrated.smoothScrolling": true,
+    "terminal.integrated.fontSize": 14,
     "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font Mono",
     "git.confirmSync": false,
     "git.autofetch": true,
@@ -24,5 +32,51 @@
     "prettier.tabWidth": 4,
     "prettier.printWidth": 120,
     "prettier.singleQuote": true,
-    "terminal.integrated.env.windows": {}
+    "terminal.integrated.env.windows": {},
+    "scm.inputFontFamily": "JetBrainsMono Nerd Font Mono",
+    "chat.editor.fontFamily": "JetBrainsMono Nerd Font Mono",
+    "debug.console.fontFamily": "JetBrainsMono Nerd Font Mono",
+    "editor.codeLensFontFamily": "JetBrainsMono Nerd Font Mono",
+    "notebook.output.fontFamily": "JetBrainsMono Nerd Font Mono",
+    "markdown.preview.fontFamily": "JetBrainsMono Nerd Font Mono",
+    "editor.inlayHints.fontFamily": "JetBrainsMono Nerd Font Mono",
+    "apc.activityBar": {
+        "position": "bottom",
+        "hideSettings": true,
+        "size": 32
+    },
+    "apc.statusBar": {
+        "position": "editor-bottom",
+        "height": 32
+    },
+    "apc.stylesheet": {
+        ".monaco-workbench": {
+            "font-family": "JetBrainsMono Nerd Font Mono"
+        }
+    },
+    "apc.parts.font.family": {
+        "sidebar": "JetBrainsMono Nerd Font Mono",
+        "titlebar": "JetBrainsMono Nerd Font Mono",
+        "activityBar": "JetBrainsMono Nerd Font Mono",
+        "panel": "JetBrainsMono Nerd Font Mono",
+        "tabs": "JetBrainsMono Nerd Font Mono",
+        "statusbar": "JetBrainsMono Nerd Font Mono",
+        "settings-body": "JetBrainsMono Nerd Font Mono",
+        "extension-editor": "JetBrainsMono Nerd Font Mono"
+    },
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "breadcrumbs.enabled": false,
+    "workbench.colorCustomizations": {
+        "[GitHub Dark Default]": {
+            "editor.background": "#120f17",
+            "terminal.background": "#0e0c12",
+            "activityBar.background": "#0e0c12",
+            "statusBar.background": "#0e0c12",
+            "sideBar.background": "#0e0c12",
+            "editorGroupHeader.tabsBackground": "#0e0c12",
+            "tab.inactiveBackground": "#0e0c12"
+        }
+    }
 }
