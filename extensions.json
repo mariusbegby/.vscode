@@ -1,10 +1,12 @@
 {
     "recommendations": [
         "alexcvzz.vscode-sqlite",
+        "bierner.markdown-preview-github-styles",
         "christian-kohler.path-intellisense",
         "dbaeumer.vscode-eslint",
         "eamodio.gitlens",
         "ecmel.vscode-html-css",
+        "equinusocio.moxer-icons",
         "EditorConfig.EditorConfig",
         "esbenp.prettier-vscode",
         "GitHub.copilot",
