@@ -55,6 +55,7 @@
             "font-family": "JetBrainsMono Nerd Font Mono"
         }
     },
+    "apc.font.family": "JetBrainsMono Nerd Font Mono",
     "apc.parts.font.family": {
         "sidebar": "JetBrainsMono Nerd Font Mono",
         "titlebar": "JetBrainsMono Nerd Font Mono",
