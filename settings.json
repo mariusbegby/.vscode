@@ -79,5 +79,6 @@
             "editorGroupHeader.tabsBackground": "#0e0c12",
             "tab.inactiveBackground": "#0e0c12"
         }
-    }
+    },
+    "chat.editor.fontSize": 12
 }
