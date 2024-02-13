@@ -16,6 +16,7 @@
     "editor.scrollbar.horizontal": "auto",
     "editor.scrollbar.vertical": "auto",
     "editor.linkedEditing": true,
+    "editor.cursorSmoothCaretAnimation": "on",
     "workbench.startupEditor": "none",
     "workbench.colorTheme": "GitHub Dark Default",
     "workbench.iconTheme": "moxer-icons",
