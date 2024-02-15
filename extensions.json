@@ -25,6 +25,7 @@
         "ms-vscode-remote.remote-wsl",
         "ms-vscode.vscode-typescript-next",
         "naumovs.color-highlight",
+        "peterschmalfeldt.explorer-exclude",
         "pkief.material-product-icons",
         "prisma.prisma",
         "redhat.vscode-xml",
